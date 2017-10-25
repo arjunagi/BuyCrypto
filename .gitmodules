@@ -1,0 +1,3 @@
+[submodule "coinbase-java"]
+	path = coinbase-java
+	url = https://github.com/coinbase/coinbase-java
